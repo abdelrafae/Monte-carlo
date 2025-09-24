@@ -6,3 +6,6 @@ scipy
 openpyxl
 xlsxwriter
 pillow
+numexpr
+Dict
+List
