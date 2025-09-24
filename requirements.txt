@@ -7,5 +7,6 @@ openpyxl
 xlsxwriter
 pillow
 numexpr
-Dict
-List
+typing
+textwrap
+math
