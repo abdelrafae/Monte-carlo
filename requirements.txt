@@ -3,10 +3,4 @@ pandas
 numpy
 matplotlib
 scipy
-openpyxl
-xlsxwriter
-pillow
 numexpr
-
-textwrap
-math
