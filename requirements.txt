@@ -7,6 +7,6 @@ openpyxl
 xlsxwriter
 pillow
 numexpr
-typing
+
 textwrap
 math
